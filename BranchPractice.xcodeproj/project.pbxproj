@@ -12,6 +12,7 @@
 		2782CD522059844600339ADC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2782CD502059844600339ADC /* Main.storyboard */; };
 		2782CD542059844600339ADC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2782CD532059844600339ADC /* Assets.xcassets */; };
 		2782CD572059844600339ADC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2782CD552059844600339ADC /* LaunchScreen.storyboard */; };
+		2782CD5F20598BAE00339ADC /* TechnologyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2782CD5E20598BAE00339ADC /* TechnologyViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2782CD532059844600339ADC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2782CD562059844600339ADC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2782CD582059844600339ADC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2782CD5E20598BAE00339ADC /* TechnologyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TechnologyViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2782CD4C2059844600339ADC /* AppDelegate.swift */,
 				2782CD4E2059844600339ADC /* ViewController.swift */,
+				2782CD5E20598BAE00339ADC /* TechnologyViewController.swift */,
 				2782CD502059844600339ADC /* Main.storyboard */,
 				2782CD532059844600339ADC /* Assets.xcassets */,
 				2782CD552059844600339ADC /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				2782CD4F2059844600339ADC /* ViewController.swift in Sources */,
 				2782CD4D2059844600339ADC /* AppDelegate.swift in Sources */,
+				2782CD5F20598BAE00339ADC /* TechnologyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
